@@ -9,7 +9,7 @@ The circuit follows the basic stages of a linear power supply including voltage 
 
 ## Circuit Diagram
 
-![Circuit Diagram](charger.asc)
+![Circuit Diagram](charger_circuit.png)
 
 ---
 
