@@ -9,12 +9,9 @@ The circuit follows the basic stages of a linear power supply including voltage 
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit.op)
+![Circuit Diagram](charger.asc)
 
 ---
-
-## LM7805
-![LM7805](78xx Series.zip)
 
 
 ## Components Used
